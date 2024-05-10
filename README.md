@@ -21,15 +21,15 @@ Cara Menggunakannya silahkan masukan link berikut ke dalam aplikasi yang di impl
 
 Silahkan clone repo ini jika anda ingin melakukan test untuk menggunakan api.
 
-```http
+```
 git clone https://github.com/fajarsapwebdev19/rest-api-master-data.git
 ```
 
-jangan lupa buat database dengan nama test_api dan import databasenya pada php my admin
+jangan lupa buat database dengan nama test_api dan import databasenya rest-api-master.sql pada php my admin atau jalankan langsung di mysql workbench / visual studio code
 
 atau jika ingin menggunakan nama database yang berbeda bisa melakukan configurasi berikut
 
-```http
+```
 <?php
 
 $server = 'localhost';
