@@ -1,7 +1,3 @@
-CREATE DATABASE test_api;
-
-USE test_api;
-
 CREATE TABLE users (
     id INT PRIMARY KEY,
     nama CHAR(50) NULL,
