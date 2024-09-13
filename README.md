@@ -7,17 +7,16 @@ Cara Menggunakannya silahkan masukan link berikut ke dalam aplikasi yang di impl
 
 | DATA | METHOD | URL |
 | :--- | :--- | :--- |
-| `Agama` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_agama.php |
-| `Alasan PIP (Program Indonesia Pintar)` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_cita_cita.php |
-| `Cita-Cita` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_agama.php |
-| `Hobby` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_hobbi.php |
-| `Jenis Pendaftaran` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_jenis_pendaftaran.php |
-| `Kejuruan` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_kejuruan.php |
-| `Pekerjaan` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_pekerjaan.php |
-| `Pendidikan` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_pendidikan.php |
-| `Penghasilan` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_penghasilan.php |
-| `Tempat Tinggal` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_tempat_tinggal.php |
-| `Transportasi` | `GET` | https://masterdata.ppdb.dev19.my.id/api/m_transportasi.php |
+| `Agama` | `GET` | https://masterdata.ppdb.dev19.my.id/api/religion.php |
+| `Alasan Penerima PIP (Program Indonesia Pintar)` | `GET` | https://masterdata.ppdb.dev19.my.id/api/pip_recipient_reason.php |
+| `Cita-Cita` | `GET` | https://masterdata.ppdb.dev19.my.id/api/dreams.php |
+| `Hobby` | `GET` | https://masterdata.ppdb.dev19.my.id/api/hobby.php |
+| `Jenis Pendaftaran` | `GET` | https://masterdata.ppdb.dev19.my.id/api/registration_type |
+| `Pekerjaan` | `GET` | https://masterdata.ppdb.dev19.my.id/api/work.php |
+| `Pendidikan` | `GET` | https://masterdata.ppdb.dev19.my.id/api/education.php |
+| `Penghasilan` | `GET` | https://masterdata.ppdb.dev19.my.id/api/income.php |
+| `Tempat Tinggal` | `GET` | https://masterdata.ppdb.dev19.my.id/api/residence.php |
+| `Transportasi` | `GET` | https://masterdata.ppdb.dev19.my.id/api/transportation.php |
 
 Silahkan clone repo ini jika anda ingin melakukan test untuk menggunakan api.
 
